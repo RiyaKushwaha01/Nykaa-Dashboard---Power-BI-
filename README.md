@@ -4,13 +4,13 @@ This project visualizes Netflix’s global catalog of movies and TV shows using 
 
 **🛠️Tools & Technologies Used** 
 
-*Data Source: Kaggle
+- Data Source: Kaggle
 
-*ETL: Microsoft Excel
+- ETL: Microsoft Excel
 
-*Database: SQL server
+- Database: SQL server
 
-*Visualization: Power BI and DAX
+- Visualization: Power BI and DAX
 
 *Language: SQL
 
